@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T16:06:16.120Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="y4uYIO9KiREI30_rpUon" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T16:06:33.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="1YwDjYmHzXvX7NVxrzX6" version="14.6.6" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1426" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,10 +57,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="公众号1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="346.5" y="360" width="150" height="75" as="geometry" />
+          <mxGeometry x="380" y="360" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-55" value="公众号2" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="554.5" y="360" width="150" height="75" as="geometry" />
+          <mxGeometry x="590" y="360" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-57" value="业务服务" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="827.5" y="362.5" width="150" height="75" as="geometry" />
