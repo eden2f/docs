@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T16:08:54.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="z9gfIOyygKCcPsjpCuPb" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T16:12:15.033Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="KjTwv-M_vSkUz_sakt2X" version="14.6.6" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1426" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,9 +51,10 @@
             <mxPoint x="629.5" y="510" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-52" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="LbCGQQGBKZuf1_KkNUaz-1" target="dKdSaXE48SgPbhcamS2K-57" edge="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-52" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" parent="1" source="LbCGQQGBKZuf1_KkNUaz-1" target="LbCGQQGBKZuf1_KkNUaz-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1061.5" y="510" as="sourcePoint" />
+            <mxPoint x="902.5" y="437.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="公众号1" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" parent="1" vertex="1">
@@ -61,9 +62,6 @@
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-55" value="公众号2" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="590" y="360" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-57" value="业务服务" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="827.5" y="362.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-58" value="Technology" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1269" y="751" width="240" height="20" as="geometry" />
@@ -96,6 +94,12 @@
             <mxPoint x="756.5" y="690" as="sourcePoint" />
             <mxPoint x="572.5" y="610" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LbCGQQGBKZuf1_KkNUaz-4" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LbCGQQGBKZuf1_KkNUaz-6" value="&lt;span style=&quot;font-size: 14px&quot;&gt;业务服务&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=collab;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="827.5" y="360" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
